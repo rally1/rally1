@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rally1
-- 👀 I’m interested in prgramming go lang
+- 👀 I’m interested in programming go (golang)
 
 
 <!---
